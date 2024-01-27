@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/realisations/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/realisations/" rel="alternate" type="text/html" hreflang="fr" /><updated>2024-01-27T19:19:15+01:00</updated><id>http://localhost:4000/realisations/feed.xml</id><title type="html">Réalisations, dessins techniques…</title><subtitle>Présentation de quelques unes de mes réalisations sur mon temps libre.</subtitle><author><name>Jérôme Launay</name></author><entry><title type="html">Remorque de transport pour vélo</title><link href="http://localhost:4000/realisations/metallerie/2020/08/01/remorque_velo.html" rel="alternate" type="text/html" title="Remorque de transport pour vélo" /><published>2020-08-01T00:00:00+02:00</published><updated>2020-08-01T00:00:00+02:00</updated><id>http://localhost:4000/realisations/metallerie/2020/08/01/remorque_velo</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/08/01/remorque_velo.html"><![CDATA[<h3 id="modélisation-de-la-remorque">Modélisation de la remorque</h3>
+
+<p><img src="/realisations/images/remorque_velo_freecad.png" alt="remorque_velo_freecad.png" /></p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/remorque_velo_sans_roues.FCStd">remorque_velo_sans_roues.FCStd</a></p>
+
+<p>Fabrication en 2016. Modélisation refaite avec freecad en 2020.</p>
+
+<p>Tubes d’acier cintrable diamètre 21,3mm.</p>
+
+<p>Outillage: cintreuse Mingori (forme pour tube 15/21, rayon de cintrage 70mm), soudure tig et electrodes enrobées.</p>
+
+<p>Finition avec un verni glycéro transparent.</p>
+
+<p>Roues de bmx (20 pouces), roues avant et arrière avec ou sans le pignon.</p>
+
+<h3 id="à-latelier-remorque-terminée-sur-béquille-mai-2016">à l’atelier, remorque terminée, sur béquille (mai 2016)</h3>
+
+<p><img src="/realisations/images/remorque_atelier_800x600.jpg" alt="remorque_atelier_800x600.jpg" /></p>
+
+<h3 id="détail-de-larticulation">Détail de l’articulation</h3>
+
+<p><img src="/realisations/images/remorque_detail_rotule.jpg" alt="remorque_detail_rotule.jpg" /></p>
+
+<p>Avec embout à rotule.</p>
+
+<h3 id="transport-de-mon-chien-mai-2016">Transport de mon chien (mai 2016)</h3>
+
+<p><img src="/realisations/images/remorque_loki_vern.jpg" alt="remorque_loki_vern.jpg" /></p>
+
+<h3 id="aux-étangs-de-vern-sur-seiche">Aux étangs de Vern-sur-seiche</h3>
+
+<p><img src="/realisations/images/remorque_in_situ1_800x600.jpg" alt="remorque_in_situ1_800x600.jpg" /></p>
+
+<h3 id="pour-lemmener-nager">Pour l’emmener nager</h3>
+
+<p><img src="/realisations/images/remorque_in_situ2_800x600.jpg" alt="remorque_in_situ2_800x600.jpg" /></p>
+
+<h3 id="durabilité-juin-2020">Durabilité (juin 2020)</h3>
+
+<p>Cette remorque me permet aussi d’aller chercher des colis volumineux en centre ville ou de transporter des charges lourdes de plus de 100kg.</p>
+
+<p>Elle m’a servi, au début de l’été 2020, à transporter environ 2 tonnes d’ardoises à la déchetterie en une quinzaine de voyages.</p>
+
+<p><img src="/realisations/images/remorque_ardoises_800x600.jpg" alt="remorque_ardoises_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[Modélisation de la remorque]]></summary></entry><entry><title type="html">Galerie de toit pour Transporter T5</title><link href="http://localhost:4000/realisations/metallerie/2020/07/22/galerie_toit_T5.html" rel="alternate" type="text/html" title="Galerie de toit pour Transporter T5" /><published>2020-07-22T00:00:00+02:00</published><updated>2020-07-22T00:00:00+02:00</updated><id>http://localhost:4000/realisations/metallerie/2020/07/22/galerie_toit_T5</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/07/22/galerie_toit_T5.html"><![CDATA[<h3 id="modélisation-de-la-galerie">Modélisation de la galerie</h3>
+
+<p><img src="/realisations/images/galerie_toit_t5_freecad.png" alt="galerie_toit_t5_freecad.png" /></p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/galerie_toit_t5.fcstd">galerie_toit_t5.fcstd</a></p>
+
+<p>A l’origine, je l’ai dessinée en 2D avec Draftsight, le clone gratuit (en 2013) d’Autocad qui fonctionnait sous Linux.</p>
+
+<p>Galerie de toit faite à partir de tubes d’acier cintrable (12/17 et 15/21), de tube carré 20x20x2 et de plat 20x6.</p>
+
+<p>Moyens utilisés:  cintreuse mingori, forme mingori pour tube 15/21 (rayon de cintrage 70), forme mingori pour tube 12/17 (rayon de cintrage 55), coupe-tube, plieuse, soudure à l’électrode et au tig.</p>
+
+<p>Fabrication “maison” en 2013 et galvanisation à chaud par une entreprise extérieure.</p>
+
+<h3 id="galerie-montée-sur-le-t5">Galerie montée sur le T5</h3>
+
+<p><img src="/realisations/images/galerie_T5.jpg" alt="galerie_T5.jpg" /></p>
+
+<p>La galerie est montée et démontée suivant les besoins de transport sur le toit. Je ne roule pas avec à vide.</p>
+
+<h3 id="galerie-stockée-sur-un-portique-dans-latelier">Galerie stockée sur un portique, dans l’atelier</h3>
+
+<p><img src="/realisations/images/galerie_T5_portique_800x600.jpg" alt="galerie_T5_portique_800x600.jpg" /></p>
+
+<p>Pour monter la galerie sur le toit du fourgon, je place le fourgon sous le portique, et je descends la galerie en désserrant les mouflages (technique de levage avec des cordes de spéléo et des poulies).</p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[Modélisation de la galerie]]></summary></entry><entry><title type="html">Pad 8” pour batterie électronique</title><link href="http://localhost:4000/realisations/impression3d/2020/07/10/pad_edrum_8in.html" rel="alternate" type="text/html" title="Pad 8” pour batterie électronique" /><published>2020-07-10T00:00:00+02:00</published><updated>2020-07-10T00:00:00+02:00</updated><id>http://localhost:4000/realisations/impression3d/2020/07/10/pad_edrum_8in</id><content type="html" xml:base="http://localhost:4000/realisations/impression3d/2020/07/10/pad_edrum_8in.html"><![CDATA[<h3 id="conception-en-3d">Conception en 3D</h3>
+
+<p><img src="/realisations/images/pad_edrum_8in_v2.png" alt="pad_edrum_8in_v2.png" /></p>
+
+<p>Pad pour peau maillée et capteur piezo électrique. Fixation du pad sur support de tom Yamaha (tige hexagonale).</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/pad_edrum_8in_v2.FCStd">pad_edrum_8in_v2.FCStd</a></p>
+
+<h3 id="remarques-sur-limprimante-3d">Remarques sur l’imprimante 3D</h3>
+
+<p>Surface minimum de la table d’impression : 235 mm x 235 mm.</p>
+
+<p><img src="/realisations/images/pad_edrum_8in_v2_impression_rim_800x600.png" alt="pad_edrum_8in_v2_impression_rim_800x600.png" /></p>
+
+<p>Pour une imprimante Creality Ender-3, la surface d’impression d’origine est en 220x220. Il faut flasher le firmware d’origine et installer Marlin en v.2 pour forcer la surface d’impression en 235x235.</p>
+
+<h3 id="intérieur-du-pad-avec-le-capteur-piezo">Intérieur du pad avec le capteur piezo</h3>
+
+<p><img src="/realisations/images/pad_edrum_8in_interieur_piezo_800x600.jpg" alt="pad_edrum_8in_interieur_piezo_800x600.jpg" /></p>
+
+<p>Capteur piezo relié à un simple jack femelle, monté avec du scotch double face 3M et de la mousse provenant d’un joint compribande. Essai concluant avec un module Roland TMC-6 (Trigger Midi Converter).</p>
+
+<h3 id="présentation-du-pad-sur-la-batterie">Présentation du pad sur la batterie</h3>
+
+<p><img src="/realisations/images/pad_edrum_8in_vue_dessus_800x600.jpg" alt="pad_edrum_8in_vue_dessus_800x600.jpg" /></p>
+
+<p><img src="/realisations/images/pad_edrum_8in_vue_dessous_800x600.jpg" alt="pad_edrum_8in_vue_dessous_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="impression3D" /><summary type="html"><![CDATA[Conception en 3D]]></summary></entry><entry><title type="html">Garde-corps en acier</title><link href="http://localhost:4000/realisations/metallerie/2020/06/22/garde-corps_mordelles.html" rel="alternate" type="text/html" title="Garde-corps en acier" /><published>2020-06-22T00:00:00+02:00</published><updated>2020-06-22T00:00:00+02:00</updated><id>http://localhost:4000/realisations/metallerie/2020/06/22/garde-corps_mordelles</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/06/22/garde-corps_mordelles.html"><![CDATA[<h3 id="modélisation-du-garde-corps-pour-lentrée-dune-habitation-avant-sa-fabrication">Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.</h3>
+
+<p><img src="/realisations/images/garde-corps_mordelles_freecad.png" alt="garde-corps_mordelles_freecad.png" /></p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/garde-corps_mordelles.FCStd">garde-corps_mordelles.FCStd</a></p>
+
+<h3 id="fabrication-à-latelier-soudage-à-lélectrode">Fabrication à l’atelier. Soudage à l’électrode.</h3>
+
+<p><img src="/realisations/images/garde-corps_mordelles_atelier_800x600.jpg" alt="garde-corps_mordelles_atelier_800x600.jpg" /></p>
+
+<h3 id="fixation-provisoire-du-garde-corps-avant-le-démontage-pour-la-mise-en-peinture">Fixation provisoire du garde-corps avant le démontage pour la mise en peinture.</h3>
+
+<p><img src="/realisations/images/garde-corps_mordelles_800x600.jpg" alt="garde-corps_mordelles_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[Modélisation du garde-corps pour l’entrée d’une habitation avant sa fabrication.]]></summary></entry><entry><title type="html">Support de cloche pour batterie</title><link href="http://localhost:4000/realisations/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse.html" rel="alternate" type="text/html" title="Support de cloche pour batterie" /><published>2020-05-15T00:00:00+02:00</published><updated>2020-05-15T00:00:00+02:00</updated><id>http://localhost:4000/realisations/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/05/15/support_cloche_pedale_grosse_caisse.html"><![CDATA[<p>Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.</p>
+
+<p>C’est un accessoire principalement utilisé pour la musique afro-cubaine. Il permet le jeu de claves à côté de la pédale charleston sur batterie acoustique.</p>
+
+<h3 id="modélisation-du-support-de-cloche">Modélisation du support de cloche</h3>
+
+<p><img src="/realisations/images/support_cloche_pedale_grosse_caisse_freecad.png" alt="support_cloche_pedale_grosse_caisse_freecad.png" /></p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/support_cloche_pedale_grosse_caisse_V2.FCStd">support_cloche_pedale_grosse_caisse_V2.FCStd</a></p>
+
+<p>matière : Plat inox 20x4, tube inox carré 20x1.5, carré inox 14, rond inox diamètre 10, plat inox ep 2mm.
+Les pieds à visser sont imprimés en 3D avec du PLA.</p>
+
+<p>Outillage: presse maison pour le pliage, vé de 32 (l’abaque Promecam donne un rayon interne de pliage de 5 mm correspondant à l’épaisseur 4 mm pour un vé de 32), poste de soudure tig.</p>
+
+<h3 id="etapes-de-la-fabrication">Etapes de la fabrication</h3>
+
+<h4 id="pliage-des-plats-inox">Pliage des plats inox.</h4>
+
+<p>Concernant l’outil de pliage, c’est un montage que j’ai fait il y a quelques années, avec des chutes d’IPN, un cric bouteille de 20 tonnes, des tronçons de vé et de contre-vé.</p>
+
+<p><img src="/realisations/images/support_cloche_gc_pliage_800x600.jpg" alt="support_cloche_gc_pliage_800x600.jpg" /></p>
+
+<h4 id="soudure-tig-inox">Soudure TIG inox</h4>
+
+<p><img src="/realisations/images/support_cloche_gc_soudure_inox_800x600.jpg" alt="support_cloche_gc_soudure_inox_800x600.jpg" /></p>
+
+<p>Après les soudures, la pièce a été passivée à l’acide.</p>
+
+<h4 id="impression-3d-des-pieds">Impression 3D des pieds</h4>
+
+<p><img src="/realisations/images/support_cloche_gc_impression_3D_pied_800x600.jpg" alt="support_cloche_gc_impression_3D_pied_800x600.jpg" /></p>
+
+<h3 id="montage-avec-une-cloche-lp-black-beauty">Montage avec une cloche LP “Black Beauty”</h3>
+
+<p><img src="/realisations/images/support_cloche_gc_en_situation_seul_800x600.jpg" alt="support_cloche_gc_en_situation_seul_800x600.jpg" /></p>
+
+<h3 id="montage-en-situation-réelle">Montage en situation réelle</h3>
+
+<p>Pour éviter de toucher le pied du charley, j’ai dû décaler la batte. J’ai réalisé cette pièce avec l’imprimante 3D.</p>
+
+<p><img src="/realisations/images/support_cloche_gc_en_situation_avec_batterie_800x600.jpg" alt="support_cloche_gc_en_situation_avec_batterie_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[Conception et fabrication d’un support de cloche en inox pour une pédale de grosse caisse de batterie.]]></summary></entry><entry><title type="html">Verrière en acier - nouvelle modélisation</title><link href="http://localhost:4000/realisations/metallerie/2020/04/10/verriere_delphine.html" rel="alternate" type="text/html" title="Verrière en acier - nouvelle modélisation" /><published>2020-04-10T00:00:00+02:00</published><updated>2020-04-10T00:00:00+02:00</updated><id>http://localhost:4000/realisations/metallerie/2020/04/10/verriere_delphine</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/04/10/verriere_delphine.html"><![CDATA[<p><img src="/realisations/images/verriere_delphine_freecad.png" alt="verriere_delphine_freecad.png" /></p>
+
+<p>Dessin réalisé pendant le “confinement de 2020”, avec FreeCAD, d’après la modélisation d’origine sous SketchUp. J’ai fabriqué cette <a href="/realisations/metallerie/2014/06/23/verriere_delphine.html">verrière en 2014</a>.</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/verriere_delphine.FCStd">verriere_delphine.FCStd</a></p>
+
+<p><img src="/realisations/images/verriere_delphine_0981.jpg" alt="verriere_delphine_0981.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Structure à ossature bois (en cours de fabrication)</title><link href="http://localhost:4000/realisations/batiment/2020/02/20/jonction_atelier_maison.html" rel="alternate" type="text/html" title="Structure à ossature bois (en cours de fabrication)" /><published>2020-02-20T00:00:00+01:00</published><updated>2020-02-20T00:00:00+01:00</updated><id>http://localhost:4000/realisations/batiment/2020/02/20/jonction_atelier_maison</id><content type="html" xml:base="http://localhost:4000/realisations/batiment/2020/02/20/jonction_atelier_maison.html"><![CDATA[<p><img src="/realisations/images/jonction_atelier_maison.png" alt="jonction_atelier_maison.png" /></p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/jonction_atelier_maison.FCStd">jonction_atelier_maison.FCStd</a></p>
+
+<p>Plan (créé avec le Workbench Techdraw de FreeCAD) : <a href="/realisations/fichiers/plan_jonction_atelier_maison.pdf">plan_jonction_atelier_maison.pdf</a></p>
+
+<h3 id="montage-au-sol">montage au sol</h3>
+
+<p><img src="/realisations/images/montage_structure_bois_au_sol_800x600.jpg" alt="montage_structure_bois_au_sol_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="batiment" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Boîtiers métalliques pour pédales d’effets</title><link href="http://localhost:4000/realisations/musique/2020/02/05/boitier_interrupteur.html" rel="alternate" type="text/html" title="Boîtiers métalliques pour pédales d’effets" /><published>2020-02-05T00:00:00+01:00</published><updated>2020-02-05T00:00:00+01:00</updated><id>http://localhost:4000/realisations/musique/2020/02/05/boitier_interrupteur</id><content type="html" xml:base="http://localhost:4000/realisations/musique/2020/02/05/boitier_interrupteur.html"><![CDATA[<p><img src="/realisations/images/boitier_interrupteur_v2_FreeCad.png" alt="boitier_interrupteur_v2_FreeCad.png" /></p>
+
+<p>Boîtier en tôle d’acier brut 2 mm d’épaisseur. Dessiné avec l’atelier’ SheetMetal de FreeCAD (module pour plier/déplier une tôle).</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/boitier_interrupteur_v2.FCStd">boitier_interrupteur_v2.FCStd</a></p>
+
+<h3 id="pédales-footswitch-ab-pour-instruments-de-musique-électriques">pédales footswitch A/B (pour instruments de musique électriques)</h3>
+
+<p>L’enveloppe métallique sert de blindage contre les interférences électriques.</p>
+
+<p><img src="/realisations/images/boitier_interrupteur_800x600.jpg" alt="boitier_interrupteur_800x600.jpg" /></p>
+
+<p>Acier décapé et verni avec un spray.</p>]]></content><author><name>Jérôme Launay</name></author><category term="musique" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Pont pour atelier</title><link href="http://localhost:4000/realisations/metallerie/2020/01/10/pont_atelier.html" rel="alternate" type="text/html" title="Pont pour atelier" /><published>2020-01-10T00:00:00+01:00</published><updated>2020-01-10T00:00:00+01:00</updated><id>http://localhost:4000/realisations/metallerie/2020/01/10/pont_atelier</id><content type="html" xml:base="http://localhost:4000/realisations/metallerie/2020/01/10/pont_atelier.html"><![CDATA[<p><img src="/realisations/images/pont_atelier.png" alt="pont_atelier.png" /></p>
+
+<p>Fixation d’une poutre entre 2 racks. La poutre provient d’un portique roulant devenu trop encombrant.</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 :  <a href="/realisations/fichiers/pont_atelier_part.FCStd">pont_atelier_part.FCStd</a></p>
+
+<h3 id="vue-globale">vue globale</h3>
+
+<p><img src="/realisations/images/pont_atelier_vue_globale_800x600.jpg" alt="pont_atelier_vue_globale_800x600.jpg" /></p>
+
+<h3 id="détail-du-support">détail du support</h3>
+
+<p><img src="/realisations/images/pont_atelier_detail_800x600.jpg" alt="pont_atelier_detail_800x600.jpg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="metallerie" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Supports imprimés en 3D pour éléments de batterie</title><link href="http://localhost:4000/realisations/impression3d/2018/03/20/supports_elements_batterie.html" rel="alternate" type="text/html" title="Supports imprimés en 3D pour éléments de batterie" /><published>2018-03-20T00:00:00+01:00</published><updated>2018-03-20T00:00:00+01:00</updated><id>http://localhost:4000/realisations/impression3d/2018/03/20/supports_elements_batterie</id><content type="html" xml:base="http://localhost:4000/realisations/impression3d/2018/03/20/supports_elements_batterie.html"><![CDATA[<h3 id="support-de-convertisseur-midi-roland-tmc-6">Support de convertisseur MIDI Roland TMC-6</h3>
+
+<p><img src="/realisations/images/support_roland_tmc6.png" alt="support_roland_tmc6.png" /></p>
+
+<p>Support adaptable pour des boitiers Roland (ici un convertisseur de signaux piezo en signaux Midi pour batterie électronique Roland TMC6) à fixer sur les supports de toms Yamaha.</p>
+
+<p>Téléchargement du fichier 3D pour FreeCAD 0.19 (mise à jour 2020):  <a href="/realisations/fichiers/support_roland_TMC6.FCStd">support_roland_TMC6.FCStd</a></p>
+
+<p><img src="/realisations/images/support_roland_tmc6_1_800x600.jpg" alt="support_roland_tmc6_1_800x600.jpg" /></p>
+
+<p><br /></p>
+
+<h3 id="transformation-du-support-de-tom-yamaha-en-un-support-de-cloche">Transformation du support de tom yamaha en un support de cloche</h3>
+
+<p><img src="/realisations/images/boule_support_tom_yamaha.png" alt="boule_yamaha.png" /></p>
+
+<p>Demi-sphère pour support de tom yamaha.</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2020):  <a href="/realisations/fichiers/boule_yamaha.FCStd">boule_yamaha.FCStd</a></p>
+
+<p><img src="/realisations/images/boule_yamaha_1_800x600.jpg" alt="boule_yamaha_1_800x600.jpg" /></p>
+
+<p><br /></p>
+<h3 id="support-de-métronome-tama-rw100-sur-support-de-tom-yamaha">Support de métronome tama rw100 sur support de tom yamaha</h3>
+
+<p><img src="/realisations/images/support_tama_rw100_sur_yamaha.png" alt="support_tama_rw100" /></p>
+
+<p>Support en 2 parties pour être monté sur un support de tom yamaha</p>
+
+<p>Téléchargement du fichier 3D FreeCAD version 0.19 (mise à jour 2021):  <a href="/realisations/fichiers/support_tama_rw100.FCStd">support_tama_rw100.FCStd</a></p>
+
+<p><img src="/realisations/images/support_tama_rw_100_800x600.jpeg" alt="support_tama_rw_100_800x600.jpeg" /></p>]]></content><author><name>Jérôme Launay</name></author><category term="impression3D" /><summary type="html"><![CDATA[Support de convertisseur MIDI Roland TMC-6]]></summary></entry></feed>
